@@ -1,0 +1,131 @@
+
+                                           .  ..    .        .     .                       .  .......,OD: .                    .                                                                        
+                                                           .           .....  ...  ...  ..........?8D888NMM+. .........  .................. ............... .......                                     
+                                                ..       ...           .   ....     .. ..........DDOI7IIDM8NM..  .....      .                         .                                                 
+                                    ..                                 ............ .. ..........=.=~$+=8I==Z..    .  ...   .. ..  ........ .......... .....   ....                                     
+                                     .            .        . .         ............... ..........=.?.7,.O?D=O...   .  .  ........   .....     .        ..   ...                                         
+                                                                       .   .   .....   ..   .....+.~:7:,8:~:Z.......................................  .............                                     
+                                             .                 .    .. ..........................+,:.7..8.~=Z,?Z8DD8NDDNM7... .    ..............  .  .............                                     
+                                             .                     .   ...... ........ ... ......+,+7O88888DDD888DDDDDDNMMMM,.. ..... .............................                                     
+                                                           .       ......................,=7O8888888D88DD88D8DDDDDDDD88DMMMMMM+....................... ............                                     
+                                              .              ..... ............,=$8D88D88DD8888O888DD888D888DDDD8DDDDD88MMMMMMMMM..................................                                     
+                                          .         . ............ ...?ZD8O8O8OOOO888888D88888888888888888DD88DDDD88O8D8DNMMMMMMMMM$.................. ............                                     
+                                               . ..........+ZDDD8OOO88O888888888888888888888DDD8DDDD8OO888DDD88888D8ZZO8OMMMMMMMMMMMMM=... ......... ..............                                     
+                                          .      ....OOOOOOO88888888888888888888888D888DDDD8OOO8OOOO8O88DDDDDD88DD88ZOO88NMMMMMMMMMMMMMMZ............... ..........                                     
+                                           .     ....OZOOOO8O888888888D8D8D888DD8OOOOOO8888888888888888888D88NDDD888ZO88888MMMMMMMMMMMMMMMM,.  ...................                                      
+                                                 ....$ZZOOOO8888888888D88888888O88888888DDD8D88888888D8DDDDD888OOOO88OMM8D8MMMN8MMMMMMMMMMMMMO.....................                                     
+                                                 ....Z8OO888OO88888888D88888888DD8DDDDDDDDDDDDD88888ZZZOOOOZ8DNMMMMMMOMM8DZMMM8MMMMMMMMMMMMMMMMM=. ................                                     
+                                            .....+OODO88888888888888D88888DD8DDDDDDDDD888OZZZZZZZOONMMMMMMMMMMMMMMMMMZMMO8OMMMDDMMMMMMMMMMMMMMMMMMO   .... .......                                      
+                                            ...?OOOZMD88DDD888888888888D8DDD8OZZZZZZOZ8NMMMMMMMMMMMMMMMMM,MMMMMMMMMMMZMMD8OMMMD8MMMMMMMMMMMMMMMMMMMMM .............                                     
+                                            ...IZOOZNDDDNDD888888OOZZOOZZZODNMMMMMMMMMMMMMMMMO.,M+8N M8I?MMMMMMMMMMMM$MMD8OMMMDDMMMMMMMMMMMMMMMMMMMMM .............                                     
+                                         ......?ZO8OND8O88OOOOODNMMMMMMMMMMMMNMNMMZDOMMMMMMMM$O,M$MMZMDZ,MMMMMMMMMMMMZMMDOZMMMDDMMMM$~=MNMMMMMMMMMMMM .. . ........                                     
+                                       ....$$$ZOOOOO8DMMMMMMMMMMMMMM$ZZ,~MMMM?M88M$O?$MMMMMMMIMDM.87~OIMM=MMMMMMMMMMM$MMDO$MMMDDMMMM7+N?Z8MMNMMMMMMMM:.  ..   .....                                     
+                                        ...8ZOMMMMMMMMMM8MM .8OMM~DNMM$O=MMMMMM$MM?MMNMMMMMMM8NMMMMMMMMMMMM8Z$ZZ8O8OZOMMDZZMMMNDMMMMIMODO$7?+NNNMMMMMMMD, .........                                     
+                                        ...$$OMMMMMMMMM=M+,MM,$MM,INMN?MNMMMMMM7NMMMMMMMMMMMM8OZZ$$$$$$ZZ8MMMMMMMMNDOO8ODZ$MMMMMMMMMMNM8Z7NMMNN8NNNMMMMMM8 .   ..                                       
+                                    ..  ...Z$OMMMMMMMMM:MM.D?O+:.~MNDMMMMMMMMMMMD8ZZZZOZZ$ZODNMMMMMMND88888DDD888D8NNND887$MMMMMMMMMMMMNNN?+MMN8$Z8NNMMMMD.                                             
+                                        . .Z$OMMMMMMMMM$MMMMMMMMMMMMMD8ZZZZZZ$ZO8NMMMMMMND88888888DOO88DOOODNMMDD8888DOOZ$7MMMMMMMMMMMMMMMNMDNN?OD7NNMONMMM,   .                                        
+                                        ...7ZOMMMMMMMMMND8OZZZZZZOO8DNMMMMMMNDD8DDD8888D88888DNNNDDOOOOOO888O888O8D8D88Z$$$MMMMMMMMMMMMMMMMMMNND=$INN7D=NNNMMD...                                       
+                                    .. ....$$$$ZOOOZZ88NMMMMMMMNNDD8D8888888DOO8D8MD8OOOOOOOOOOOOZZZZZZOOO888O8OO88OOO8Z77$MMMMMMMMMMMMMMMMMMMMMNNDDD7$M8~NNDM...                                       
+                                       ....$D88OZMND8888DDDDDDD88DMMNDD888DN88888ONZOZOOOOOZOOOOOZZ$Z$ZZ88DDNM88OO8ZO88Z$$7MMMMMMMMMMMMMMMMMMMMMMMMNNNM8DNNNNM..                                        
+                                      . ...788ZOZMDDDNN8888888888OOOOOO8OO88OOO8OONZOOZZZ$Z8DNNNNNDO8ZOO8Z?~:D888OO8ZD8ZZ$ZMMMMMMMMMMMMMMMMMMMMMMMMMMMNNN~NNNM  .                                       
+                                        ...$77$ZDM888D8OO88O8ZOZZZZOZOOOOZZ88O8OZZMZZZ$N88DD8$IN~....,8......D8OOOOOOOZZ$Z$MMMM?MMMMMMMMMMMMMMMMMMMMMMMMMNDDNM... .                                     
+                                        ...I$$$$DM8D88D8O8ZZZOZ8DNDDD8888888$ZOOZ$N$ZZ$8M.....:D......D......DZOOZODOOZ77$$MMMM:,M~8MMMMMMMMMMMMMMMMMMMMMMMMNM.                                         
+                                    ..  ..,77$Z$8M8N88DO8DDD88ZIO,....Z. ...+ZZOZZN$ZZ$8M.....:N......8..  ..8OZOZOOZ8Z77I7MMMM~~M~=$ODMMMMMMMMMMMMMMMMMMMMMMM                                          
+                                      . ..:77$$$OM8NO88ZD8~,,..:$.....8.....?ZZO$ZM$$Z7NM    .:D......8......OZOZZZO$OZ7I7ZMMMM++M++DZ$NMMMMMMMMMMMMMMMMMMMMMM.                                         
+                                      . ..:$77$7OMOD888ODD,....:7.,.,.8.. ..?$$ZZZN$$Z$DM    .,D......8......O$OZOOO$ZZ7?I$MMMM+?M+?NO7NMMMMMMMMMMMMMMMMMMMMMM                                          
+                                        ..:7$77$ONZN888ZND.....~I,.,,.8.....?$$Z$ON7$$7DM..  .,D......D......8ZZZZZOOO$I77?MMMM+IM?IMZ7NMMMMMM7MNMMMMMMMMMMMMM                                          
+                                        ..:77$$$ONOM888ZN8.....=I,:,:.O,....?7$$ZZD7$$7DM..  .,D.  ...8......OZZZZZZOZ8I?$7MMMM?7M?IMO$MMMMMMM7MD?MONMMMMMMMMM                                          
+                                    ... ..:$7$7$ONOM888ON8.....=I,:::,O,....?7$Z$ZD77$$DM......D.  ...8......8$OZZZOZO$7?7$MMMM?7MI7MO7MMMMMMM7MD+D$?MMMMMMMMM...                                       
+                                       ...~$$$7$OD8MOOOOD8.....=I::::,Z,,...?7$ZZZD7Z77NN.....,D,:=7ZOZ888OZ$O$$OZZOZ8$I?I$MMMMZZMI7MO$MMMMMMMIN8+II.?MMMMMMMM                                          
+                                    ......~$7$7$ODOM8OOZDO.....?I,:,,:Z:,...$7$$$ZD7Z77DOOZ?+.,N.. ...$......Z7$ZZOO$87?~I?MMMMOMMMNMOZMMMMMMMIN8+=I.+MMMMMMMM ..                                       
+                                       ...~7$$I$O8ZMOOOZDO:~IZOOZZ8OZ7$,.,..I77Z$$D$7$7DZ......8......$......O7$ZO88$8$7~I+MMMM?INZZMMMMMMMMMMIDD=+I.+MMMMMMMM.                                         
+                                       ...=$$$77ZDZMOOOZ8O.....?+:,,,.Z.....?77Z$$N$777D$. ....D......$. ....ZZOZOO87O$$+7?MMMM?78I$MD8NMMMMMM7DD++7.=MMMMMMMM                                          
+                                        ..+$7$$$O8ZMOOOZO8.....I+:,,,.Z.....?$$$$$N7I77D7    ..D......$ . ...Z$$ZOZO$$OII$+MMMM?78I7MD$8MMMMMMDMM$I$.=MMMMMMMM                                          
+                                        ..+Z$$$$O8OMZOOZOZ ....7+:,,,.Z.....I$$Z7$N$77ZN7   ..,D......Z.. ...$7ZOZOZ$Z$III?MMMMI7D7$MM$8MMMMMMI$D+ZMN?MMMMMMMM                                          
+                                        ..?Z7ZZ$ZOOMZOOZOO.....$=:,,,.O.....I$$$7$N7777D$    .,8......Z.. ...Z$ZO8OOZZOI?IIMMMMI7D7$MMZ8MMMMMMI7D+?N=:MMMMMMMM.                                         
+                                       ...?$7$$$ZOZMZOOZOO.....Z~,,,,.Z.....I$$Z$$N7$7ZD7    .,8......Z.. ...$$$ZO8OZZ$I7~?MMMM7$N7$MMZ8MMMMMMI7D+ID~:MMMMMMMM                                          
+                                    ... ..IZ7Z$Z$ZZMZZO$OZ.....Z~,,,..O.   .I$$Z$$N7$7ON7 ....,8......Z .....ZZ$$D8OZZ$7??7MMMM$$N7$MMZ8MMMMMM?ID=ID~:MMMMMMMM                                          
+                                    ... ..I$$Z$Z$ZZMZOZ$8O.....Z:,....O.   .I$$Z7$D7$7ONI,....~D??I7$O8888DNNNO$ZD8ZO$$7?I?MMMMMMMZ$MMO8MMMMMM?ID~ID=:MMMMMMMM                                          
+                                      . ..7$I$ZZ$O$MZOOZDO.....Z:.::=?DO8DDDO$$$$7N$77$NDDDOOOZZZ$ZZZZOOOZZZZOOZZ8D$ZZ7I7?IMMMMMMMMMMMMNMMMMMM++D~?N=~MMMMMMMM    .                                     
+                                    ......7$7$$ZZZ$MZOOZNNMMMMMDD88OOOOOZZZ$Z$$Z77D$$$$$$ZO8OOOZZZZZZ$$7$$$ZZ$O$$OD$O$7II+IMMMMMMMMMMMMMMMMMMM=~8,=N?$MMMMMMMM...                                       
+                                    .. ...7$7$ZZZZZMZOOZOOZOOOOOOZZZ$$$$$$$$$$$Z$7N$$ZZ$$$$Z$$$$$$$$$$7$$$$7$$$$$OZ7ZZO$7?7MMMMMMMMMMMMMMMMMMMMO8..N$DMMMMMMMM..  .                                     
+                                    ... ..77$$$OZZOMZOZZOOOZZOZ$ZZZZZ$ZZZZZZZ7$Z$7N$77ZO$$7$$$$$$$ZO88NNNNNNNNZ$$$$7$Z$$I?ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.   .                                     
+                                    ......7I777OZZOMZOOZOOOOZOOOOO88DNMNMMMMM7ZZ$7N7$$ZM8ZOZZ$$ZZZ$ZZZZ$Z$ZZZZ$$$$O7$7$$I+IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                                       
+                                    ......7I77$ZZ$ZMZOZZD8ODDD88888OOOZOZZZ$O77Z$$N$$77MZ$$$$$$$$$$$$$$7$$Z$$Z$$$$O7$7$$?+7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                                       
+                                    ..  ..$7I7$O$Z$MZOZZNO$8D8O8888D88$77~I$O$7Z7IN$$$IM$I77$$$$77777I7777$$$777Z$$7$7$7I+7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                                         
+                                    ......$I77ZOO$OMZOZZD$$8=,..,,,,:==~~=+Z877Z77D$$$$M77$$$$777777777$$7$$$$I7ZZZI$7$$7?IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                      ....$I$$ZZZ$8MZOZ$O$$.,:~~.........:+$877Z$$N$$$7M$7$$7$77777777777$$7$777ZZZOZ$ZZI??MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                    .. .. 77$$$ODZZMZOZ$DZZ.,,..I+::I....,+ZZI7$$INZ$77M$$$$777I7I77I7$$$$$$$77Z$O$O7Z$7II?MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                      ....77$ZZ8D$OMZOZ$NZZ,,,....,......,IZ$77$$$N$Z$IM$77777I77777777$$$7$$$7$Z8Z77Z$777IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                    .. ...777Z$88OOMZOZ$NZO,,.+I$.~I.~I.,,78O77Z7$N$Z$IM$$77777777777$I$$7$$$7I$ZD$$$Z7$I7IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.   .                                     
+                                      ....$7$ZZ88OOM$OZ$NZO.,,..,,:,==..,,IMZI$Z$ZNZMZ$MZO777777I7I7$$77777$777Z$OOZ77$7I7INMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                                       
+                                      ....7?7ZZ8DZOMZO$$8$O....Z7~I7?I...,?NZ77$7$D+M7+MZZ$77I7I777ZZ77I77$$$7Z$ZO8Z$I$II7INMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM... .                                     
+                                    ......777ZZODZZM$OO$D$O.,:,+.?,++7=?+,INO77Z7$M+M7IM$$777777I7I77?7$77$$$7Z77ZZ7$I$7I7$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                    ... ..77$ZO8DOONZZZ$N$O..::.:,.,.+~7I?IMZ7$Z$IDOM7IMZ$77I7777$7$77$$7$$$$7$$$ZZ7$Z$$$$$NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .. .                                     
+                                    ......7$$$$8DOZMZO$$NZO.~::,,......,.,7ZO$$Z$7NZ$7$MZZ7I77777$7$$7$$$$$$$77$ZOZ$$Z7$$7IMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. .                                       
+                                    ......7ZZ$ZONZZNOO$7NZO,,,.+:=,~~:,..,7ZZ$$Z$ONZOZ$N$Z$7777777$777$$7$$Z$$$Z$OO$Z777$ZIDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .  .                                     
+                                    ......7$$Z$8DZOD$O$7N$O..~:~..,.......I$Z$7$$$NZ$$ON$Z$$7$$$77$$7$$$$$7ZZ$$Z$$OZZZ$7$77NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    ..  ..7Z$ZZONODN$Z$7O$O,I$+..?,~.7Z:?:?$Z7$$$$NZZZ7DZZZ77$77$$$$7$$$Z$$$Z$7$$O8$$$77$I7DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                                       
+                                      ....7$ZOZOM$ZDOOZ$8$O?,7,.,,::,,...~IZZ77$7$NZZ$7NOO$$$$$$$ZZ$OZOZ$$ZZZ$7$$O8$OZZ7777DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM... .                                     
+                                    ......ZZ$OOONZ8DZZ$$MZ88OOOOOOOZOZZZZZZOO7$$$7NZZ$ZMOOZZZOZ8ZZZZZZZOZZOZZ$$$ZOOZIO7I7I$DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    ... ..ZOZOOOMZ8NOOZ$N88OOOO8O8$88ZO8O8OO8$$Z$$M$Z$ZNO88DD8DD88DDNNNNMMMMNM$$ZODO$8777I$DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. .                                       
+                                    ......ZZZOZOMZ8DOOZZOOOOOZZZZZZOZZZZ$$ZZ$Z$Z7$M$OOZZOZ$ZZ$$ZZZ$Z$$$$$$OOZOZ$Z88ZOZZ7I7$NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                    .. ...OZ$OO8MOODOOOOOOOOOOOZZOZZOOOZZ$$ZZ$$Z7$NZ~IDO$$ZZOZZZ$ZZZZ$ZOZ$$$$ZOZZZO$OZ$$7$$DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  .                                     
+                                    ... ..ZOZOO8M8ODZOOOOOZOOZZZZOZZZOZZZ$$ZZ$$Z7$NZ7+$OOOZZOZZZZZZZOO88OOOZDOOZ$OZ7OZZZI77DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  .                                       
+                                    ......ZZ$8O8M888OOOZNDNNNNNNNNNMNNNNDDDND$ZZ$$MZOZZNNDDDNNMMNMMNMMMDMMNMMMZ$ZOO$OOZZ$$$DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  .                                     
+                                    ... ..OOZ888M88DOOZZNOOOOOOOOOOZZZZZZZ$$Z$OZ$ZMZZO$NOZZ$$$$ZZZZZZZZZZZZZOZ$$$OO$Z8$Z77ZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                    ......ZOZO88M88DOOZZDOOOZOOOOOZZZZOZZZZ$$7ZZ$$M$$$ZMZZZ$$$7$Z$$$$$$$$$$$ZZ$7$ZZZ8Z$77$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    .. . .ZOZO88MO8DOOZ$NOOZZZZZZZZZZZZZZ$$$$$$Z$$M$$7ZMOZZ$$$$$$$$$$$$$$$$$$Z$7$ZO$Z$$ZZ$$NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                                         
+                                    . . ..ZZZ8ZOM88DOZZZNOZ$$ZZZZZZZZZ$ZZ$$Z$ZZZ7$M7$$$NZZ$$$$$$$$$$$$$$$7Z$ZZ$I$ZO$8Z$$7$$NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  .                                     
+                                    ......OZOOOOM888OZOZNOZZ$ZZZZZOZZZ$ZZZ$Z$ZZZ$$M77$7MZZ$$$$$$Z$OZ$$$$$7$$Z$$ZZZ8$OOZ$Z7$DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                       ...O8OOOOM8D8ZOZ$NOZZZZZZZZZZZZ$ZZ$ZZZ7$Z7$M7$Z$MZZZ$$$$$ZZ$Z$$77$$$$$$$7$OO$OOOZ$7$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  .                                     
+                                    . ....OOO88OMO88ZOOZNOOZZZZZZZZZZZ$$ZZZZ$$$Z77N7$Z$MZOZZ$$$$$$$$$7$$$$$$$$Z7ZO8$OZO$O$$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. . .                                     
+                                    ... ..OOOOO8M8D8OOOZNOOOZZZZZZZZZZZZZZZZ$7ZO7$M77ZZMOOZZ$$$$$Z$$$$$$Z$Z$$$Z7ZO8ZZ$ZZ$$$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM... .                                     
+                                    ......OZZOO8M888OOOZNOOOOZZZZZZZZZZ$$ZZZZ$ZO77M$$ZZMOOZZZ$$$ZZZZZ$Z$ZZ$$$$Z$ZO8ZOZOZZ$$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  .                                       
+                                    ......OZOOODM888OOOZNOOOOZZZZZZZZZZ$ZZZZZ$$Z$$M$7$ZNOOZZZZ$$Z$ZZ$$$$ZZZ$$$ZOZO8ZOZZ$$Z$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM... .                                     
+                                    ......OOOZ88MDDDOOZZN88OOOZZZZZZZZZ$ZZZZZ7ZZZ$M$$$$MOOZOZ$$$Z$Z$$ZZZZZZ$Z$ZZZZ8Z8$Z$Z$$OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                      ....OZOO8DM8DDOOOON8OOOOZZZZOOZZZZZZZZZ7ZO$ZMZ$ZZMOOOOZ$$Z$Z$ZZZZZZ$ZZZZZZZOOOO$Z$Z$$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                    ......O8OOODM88D88O8M8OOOOOOZZZZOOZZZZZZZ7ZO$$M$ZOZMOZZZZZ$$ZZZOOOZZZ$$$ZZOOZZOZZZZZ$Z7OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                    ..  ..OOOO88MD8D88O8MOOOOOOZZZZZZZZZZZZOZ$ZZ$ZMZ$OOMOOZOZOZ$$$ZZOZZZZOZ$ZZZ$$OOZ8ZZZZZ$8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                       ...OZOOO8MD88O888M8OOOOZZZZOZZZZZZOOOO$$Z$$MZZOOM8OOZZOOZZZZ$ZZ$ZZZZZZOOOZOO$8ZZZ$ZZDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  .                                     
+                                    ......OOOOODMD8DO8O8NOOOOOOOOOOOOZZZZZOOO$$O$ZMZZZOM8ZZZZZOOOOZZZZZZZZOOOOZOZOOZ8ZZZO$OOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                    ......OOO8ODMD8D88O8M8888O8OOOOOOOZZZZOOOZZZ$ZMOZOZMZOZZZZZZZZZ$ZZZZZZOOOZ8OZZ8O8Z$ZOZ$OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. . .                                     
+                                    ......OZO8ODMD8D888ZDNDNNNNNMNNND8D888888Z$O$ZMOZ8OMOZOZZZZZZZZZZZZOOZZODZ8OO8O8OZZZOOZOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                    ......OZOOO8M88D88OO8OO888O8888888OOOZOZ7$ZO$ZM8OZ7NNNNDD8DDDD888888OOO888OZZOOOOZZZOZZ$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                          
+                                    ......OOOOO8M8DD888OOOOOOOOO8O888OOZZZZZ$$ZO$$M8Z88OOOZOOZZZZZ$$$$$$$$$$$ZOOOOOOOZOZZZZ$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM . ..                                     
+                                    ... ..OO88O8MDDD888ZOZZOOOOOOZZOOOOZZZOOZZZZ$ZMOOO8OZZZZZZOZZZ$$$$$$$Z$$ZZOZOOOO8OOZOZZOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                      ....OO8888M88D8888M888DDDNNMMNNNDNNNNNNZZOZZM8OO8ZZZOOOOOOOOZZZZZOZ$$$ZOOZOO8O8Z8ZOOZOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    .....,OOO8O8MDDD8888MDD888888888888OOOO8OOZOOZM8OZOMDNNMMMMMMMMMMMMNDDD8D8OOOO8O8OOZZOZOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.. ..                                     
+                                    ... .,88888DMDDD88D8M88888888888888OOO888OOOZOM8OOZM8OOOOOO8OOZZOOZ8OOOOO88ZZ88O8ZOOZOOZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.....                                     
+                                       ..,88888DMDDDD888MD88888O8OO88OOOOO888OO8ZOMOZOZNDOOOOOOOOOOOOOOOOOZOOO8OO88O8OOOOOOZMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                    .....,88888DMD8DD888MD8888OO8O888OOOOO8888OOZZMOZZZM8OOOOOZOZOOOZZOOOOOOOO8OO88O8OOOO8O8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                      ...:8O888DMDDD8888MD8888O888888OOOOO8888OOOOM8OOZM8OOOOZZZOOOOOOOOZZOOOO88888O8OOOOOO8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    .....,88888DMDDD8888M888O88O88O88OOOOO88888OOOM8OOZM8OOOOZZZOOOOOOOOOOOOOO88ODO888OOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .. .                                     
+                                    ......88888DMD8D8D88MD88OO8OOO8888OOOO888OOOONM8OOZN8OOOOOZZOOOOOOOOOOOOOOD88DDO8OOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    ... .:88888DMDDDD888MD88O8O88O8OOOOOO8888OO8OOMOOOOND8OOZOZOOOOOOOOOOOOOOO8OO8D88OO8OO88MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..                                        
+                                    ... .=O888O8MDDDDD88MD8OOOOO8O88O8OOOO888O88OOM8OOZN8OOOOOZZOOOOOOOOOOOOOO8OO8888OOO8O88MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ..                                       
+                                    .....+O8888DMDDDDD8DMD8OO8OOOOO8O888O8888OO888M8OZZND8OOOOOOOOO888888OOOOOD888D8DOO888O8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM...                                       
+                                    .....+88888DMDDD8D8DMD88O88O8888O88OO888888888M8OZZND88OOOOOOO8OO8888OOOOODO8888OO8888O8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. .                                       
+                                    .. ..:O888DDMNND888DMD8888OO8O88888OO888888888MOOZOND88OOOOOOO888888OOOOOODO88D8DOO88O88MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. .                                       
+                                    .....=O888DDMDDD888DMD8888888888888OO888888888M8OOOMD88OOOOOOO888888888888D88DD888888888MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .                                        
+                                    .....I88888DMDNDD88DMD8888888O8888OOO888D88888M88OOND888OOOOOOO888O888O8O8DO8DD88888OO88MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .. .                                     
+                                    .....I8888DDMNDN888NMDD8888888888OOOO888D88888M88OOMD888OOOOOO888888888O88D88DD8888OOO8DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM..  .                                     
+                                    .....?O8O88DMNNN88DNMDDDD8888888888888DDDD8888M88OOMD88OOOOO8O888888888888D88DD8888O8ODDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM .  .                                     
+                                    .....?D8O888MNND8DDNMDDDDD8D8888D8D88888DDD888MD888MD88O8O8OOO88O88888O8O8D88DD88O88O8N8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   ..                                     
+                                     ....ZDD8888MNNNDDDDDDDDDDDDDDDDDDDD8DDDD8DD88MD88ONDD8888888888888888OO88NO8DD88O8O88N8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$...                                      
+                                    .....ZDDD88DMNNNNNNDNDDDDDDDDD8DDDD8O8O88DDD8DMD88DMO888888888888888D888D8DO8DDD8O888DN8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO                                     
+                                    .....Z8DD8ODMDMMNNNDNDNDDDDDDDDDD88D888D88DDDDMND88DD88DDD8DNNDDOO888D8D8DDODDND8O8O8NN8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                                    
+                                    .....$ODDDODM8NMMMMNNNNNNNNNNNNNNNDNDDDDDDNNDNMNDDDDD888OO88888DDDD8888888D8DDND8888ODDDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM                                     
+                                   ..:$77$$ZOO8O88OOOO8DDD88DDNMMMMMMNNNDDDDDDNNNDMDDNDDDDDDDDD88888888DD8D8DD8DDDNDD8DDODD8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$                                     
+                                   .788O88O8OO888DDDDNDD888DDOZOOOOO8DOD8DNDNNMMMNMMNNNNNNNDDD8DDDDNNNDDDDDDDDNDDNNDDDD88DDDMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM: ..                                     
+                                   .O8DDDDD8D8DDDDDDDN8D88DDNDD8O888888D888OOOZOO88NNDNNMMMMMMNMMMNNNMNNNNNNNNNNNNN8DDDDD8DOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ.....                                       
+                                   .88DDDDDNNNNNNDDNDDDDDNDNNDDDDD8D88ODDDDD8D888O888DDDNND8888DNDNNMMNMMMMMMMMMMNMNNDNDDDD8MMMMMMMMMMMMMMMMMMMMMMMMMMMM7  .  .   .                                     
+                                    ....,=$ODNDNDDNNNNNNNNNNNNNDNNDDD8OO88DZ8ZO888OZZ88DDNDDD8DO88DDNNNDNNNNNNDDNDD8DDDDO8DOMMMMMMMMMMMMMMMMMMMMMMMMD,...                                               
+                                     ................:78DNNNNNNNNNNDNDDDDDDDD8888ODD8OOO8OO8ODDNND8DNNN8NNNNNDDDDDDNNDNNDNNNMMMMMMMMMMMMMMMMMMMMM+.....          ..                                     
+                                    .........        .............,=7ONNNNNDDDNNDDDDDDDDDDDDNDDD888DNDDDDDD8ODN8OODNNMMNNNMNMMMMMMMMMMMMMMMMMO. .   .. ....... ....                                     
+                                    .........        ... .....................,?8DNNDDDDDNNNNNNDDDDD8DDDDDDDD88DDDDD8DD8NDOOONMMMMMMMMMMMM$  .                                                          
+                                     ..... .      .  .. ::::~~,..~7=I7I,Z7I8..=:=:+......,:+7ZDNNNNNNNNNDNNNNNNDDNNNDNNNNDDNNNMMMMMMMMM+....           ..                                               
+                                    .....  ..      . .. ,.,,,.................?~?=?..    ...  .. .......=7ODNNNNNNNNNDNNNNNNNMMMMMMZ....   .                     ..                                     
+                                    .........         .   ... ..............                 ..   ....... ............+Z8NMMNMMM.        ..        .  ...     .  ..                                     
+                                    . .... .   .. .  . .. ..... .............              . ..........   ............... . .... . . ...   .  .       .    . .  .                                       
+                                                                                                                                                                                         GlassGiant.com
